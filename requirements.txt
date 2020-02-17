@@ -1,1 +1,2 @@
 setuptools>=40.6.3
+PyYAML>=5.1
