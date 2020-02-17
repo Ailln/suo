@@ -30,7 +30,7 @@ def suo(word):
 
 
 def kuo(word, show_all=False):
-    data = get_data("kuo")
+    data = get_data("kuo").lower()
     if word in data.keys():
         if show_all:
             return data[word]
