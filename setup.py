@@ -5,7 +5,7 @@ NAME = "suo"
 AUTHOR = "Ailln"
 EMAIL = "kinggreenhall@gmail.com"
 URL = "https://github.com/Ailln/suo"
-LICENSE = "MIt License"
+LICENSE = "MIT License"
 DESCRIPTION = "中英文缩写转化"
 
 if __name__ == "__main__":
@@ -21,7 +21,7 @@ if __name__ == "__main__":
         include_package_data=True,
         install_requires=open("./requirements.txt", "r").read().splitlines(),
         long_description=open("./README.md", "r").read(),
-        long_description_content_type='text/markdown',
+        long_description_content_type="text/markdown",
         entry_points={
             "console_scripts": [
                 "suo=suo.shell:run"
@@ -34,7 +34,7 @@ if __name__ == "__main__":
         classifiers=[
             "Programming Language :: Python :: 3",
             "License :: OSI Approved :: MIT License",
-            "Operating System :: OS Independent",
+            "Operating System :: OS Independent"
         ],
         python_requires=">=3.6"
     )
