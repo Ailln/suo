@@ -1,4 +1,7 @@
 # 按照字母表排序
+asap:
+  - as soon as possible
+  - 越快越好
 awsl:
   - 阿伟死了
   - 啊我死了
@@ -6,16 +9,15 @@ awsl:
 bmw:
   - 别摸我
   - 宝马汽车
-
 btw:
   - by the way
-
+  - 顺便说一下
 dbq:
   - 对不起
 
 faq:
   - frequently asked questions
-
+  - 常见问题
 ghs:
   - 搞黄色
 gkd:
@@ -27,20 +29,32 @@ hhh:
 
 lol:
   - laughing out loud
+  - 大笑
   - league of legends
+  - 英雄联盟
 
 mdzz:
   - 妈的智障
+
 nb:
   - 牛逼
+
 sb:
   - 傻逼
+
+tbh:
+  - to be honest
+  - 说实话
+
 xswl:
   - 笑死我了
+
 xfxy:
   - 腥风血雨
+
 yyds:
   - 以一当十
+
 zqsg:
   - 真情实感
 
@@ -55,3 +69,5 @@ zqsg:
 
 爷青回:
   - 爷的青春回来了
+爷青结:
+  - 爷的青春结束了
