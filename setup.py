@@ -11,7 +11,7 @@ DESCRIPTION = "中英文缩写转化"
 if __name__ == "__main__":
     setup(
         name=NAME,
-        version="0.0.3",
+        version="0.0.4",
         author=AUTHOR,
         author_email=EMAIL,
         url=URL,
@@ -33,7 +33,7 @@ if __name__ == "__main__":
         zip_safe=True,
         classifiers=[
             "Programming Language :: Python :: 3",
-            "License :: OSI Approved :: MIT License",
+            f"License :: OSI Approved :: {LICENSE}",
             "Operating System :: OS Independent"
         ],
         python_requires=">=3.6"

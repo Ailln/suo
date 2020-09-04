@@ -1,9 +1,8 @@
 from . import shell
-from . import version
 from .utils import suo
 from .utils import kuo
 
-__version__ = version.VERSION
+__version__ = "0.0.4" 
 
 __all__ = [
     "shell",
