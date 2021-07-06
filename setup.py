@@ -7,11 +7,12 @@ EMAIL = "kinggreenhall@gmail.com"
 URL = "https://github.com/Ailln/suo"
 LICENSE = "MIT License"
 DESCRIPTION = "中英文缩写转化"
+VERSION = "0.0.5"
 
 if __name__ == "__main__":
     setup(
         name=NAME,
-        version="0.0.4",
+        version=VERSION,
         author=AUTHOR,
         author_email=EMAIL,
         url=URL,
